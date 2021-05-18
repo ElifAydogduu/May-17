@@ -1,0 +1,49 @@
+.product-header {
+  text-align: center;
+  background-color: lavender;
+}
+.product-header .breadcrumb {
+  font-size: 34px;
+  color: brown;
+}
+.product-header .breadcrumb span {
+  color: brown;
+}
+
+.product-header h1 {
+  color: coral;
+  margin: 10px;
+  font-size: 55px;
+  margin-top: -30px;
+}
+
+.product-header h3 {
+  font-size: 35px;
+  color: coral;
+}
+
+.product-header i {
+  color: black;
+  font-size: 30px;
+  display: inline-block;
+}
+
+.product-body {
+  margin-top: 40px;
+}
+.product-photo {
+  background-size: cover;
+  min-height: 400px;
+  width: 45%;
+}
+
+.product-details {
+  margin-left: 53%;
+  margin-top: -350px;
+}
+.btn-main {
+  color: rgb(241, 241, 241);
+  background-color: coral;
+  margin: 10px;
+  margin-left: -5px;
+}
